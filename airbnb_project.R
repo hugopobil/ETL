@@ -108,11 +108,3 @@ tbl(conn, sql("SELECT *
 
 tbl(conn, sql("SELECT *
               FROM listings_clean LIMIT 10"))
-
-
-
-
-
-
-
-
